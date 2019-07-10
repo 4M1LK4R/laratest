@@ -81,8 +81,11 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    bytemo
+                    bytemo 
+                    <br>
+                    solutions
                 </div>
+
 
                 <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
